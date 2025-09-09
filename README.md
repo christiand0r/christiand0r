@@ -4,11 +4,13 @@
 [Twitter]: https://twitter.com/christiand00r
 
 # ``` Desarrollador Web ```
-Hola! Bienvenido al perfil de un adepto del código y amante de los doritos. Soy Christian Osorio, tambien conocido como **Door**. Disfruto de *aprender, crecer y programar*, me gusta estar al tanto de la comunidad Tech global y mi lenguaje favorito es **#Javascript** 
+Soy Christian Osorio, desde 2019, trabajando con tecnologías web para crear soluciones que convierten ideas en productos reales. Un adepto del código y amante de los doritos.
+
+Cuando estoy ocupado, programo. Cuando no lo estoy, también.
 
 Estos son algunos de mis [Proyectos]👨‍💻 y ⭐[Repositorios Favoritos] ... Lista en constante crecimiento👀
 
 #### Redes Sociales y contacto:
 - [Twitter]
 - [LinkedIn]
-- [Correo](mailto:christiandoor.2001@gmail.com)
+- [Correo](mailto:christiandoor.9996@gmail.com)
